@@ -1,0 +1,12 @@
+{
+  "name": "dora_password_generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["password"],
+  "author": "Daria Ulyanova",
+  "license": "ISC",
+  "description": ""
+}
